@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/Itsfavi0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=3FB950&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Favio+Bra%C3%B1ez+%E2%80%94+Systems+Engineering+Student%3BFull-Stack+Development+%7C+Database+Design%3BPython+%E2%80%A2+PHP+%E2%80%A2+React+%E2%80%A2+C%2B%2B%3BBuilding+CyberReinoso+SIGTAC+%26+POS+systems" alt="Banner animado con perfil de Ingeniería">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=3FB950&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Favio+Bra%C3%B1ez+%E2%80%94+Systems+Engineering+Student%3BFull-Stack+Development+%7C+Database+Design%3BPython+%E2%80%A2+PHP+%E2%80%A2+React+%E2%80%A2+C%2B%2B%3BBuilding+SIGTAC+%26+POS+systems" alt="Banner animado con perfil de Ingeniería">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Itsfavi0&style=flat&color=58A6FF&label=profile+views" alt="profile views">
