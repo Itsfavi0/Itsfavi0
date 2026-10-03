@@ -1,0 +1,29 @@
+{
+  "title": "Engineering Skill Radar",
+  "axes": [
+    {
+      "label": "Bases de Datos (SQL)",
+      "value": 90
+    },
+    {
+      "label": "Frontend (React/JS)",
+      "value": 75
+    },
+    {
+      "label": "Backend (Python/PHP)",
+      "value": 65
+    },
+    {
+      "label": "Sistemas (Linux/Servers)",
+      "value": 70
+    },
+    {
+      "label": "Arquitectura de Software",
+      "value": 75
+    },
+    {
+      "label": "Ciberseguridad",
+      "value": 40
+    }
+  ]
+}
