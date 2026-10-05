@@ -48,7 +48,6 @@ YAML_ROWS = [
     (1, "frontend", "React · JavaScript · Tailwind · HTML/CSS"),
     (1, "backend", "Python · PHP · Java · C++"),
     (1, "databases", "MySQL · PostgreSQL · SQL Server · SQLite"),
-    (1, "cloud", "AWS"),
     (1, "infrastructure", "Linux (CachyOS) · Ubuntu Server · Docker · Git"),
     (1, "os", "Linux (CachyOS) · Ubuntu Server · Windows 11"),
     (0, "contact", ""),
